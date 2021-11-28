@@ -1,5 +1,4 @@
-# PIZSA
-Protein Interaction Z-Score Assessment (PIZSA)
+# Protein Interaction Z-Score Assessment (PIZSA)
 
 PIZSA is a knowledge-based statistical potential that evaluates protein-protein complexes based on interface residue pairing preferences and atomic propensities. Interacting residues are identified by a distance threshold and every interaction is assigned a score calculated from contributions of three different modes of interaction (main chain - main chain, main chain - side chain and side chain - side chain). Our method assigns a Z Score to protein complexes that estimates the likelihood of forming stable associations.
 
