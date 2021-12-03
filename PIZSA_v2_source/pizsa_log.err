@@ -1,7 +1,0 @@
-Stopping Execution.... Check traceback below
-Traceback (most recent call last):
-  File "run_PIZSA.py", line 42, in <module>
-    scripts.src_main.main.main()
-  File "/Users/roy/ScriptBin/PIZSA_v2_source/scripts/src_main/main.py", line 68, in main
-    pot_dict_mcmc = pickle.load(open(os.path.join(data_dir, pot_mcmc), 'rb'))
-TypeError: argument 1, item 1 must be char, not unicode
